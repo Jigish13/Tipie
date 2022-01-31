@@ -22,6 +22,8 @@ The following **extensions** are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+![tipie-walkthrough](https://github.com/Jigish13/Tipie/blob/main/walkthrough/tipie_walkthrough.gif)
+
 ## Notes
 
 Describe any challenges encountered while building the app.
